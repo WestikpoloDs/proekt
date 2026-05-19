@@ -1,0 +1,6 @@
+[
+  {"user_id": 1, "name": "Temirlan", "role": "member", "membership_type": "standard", "borrowed_books": [2]},
+  {"user_id": 2, "name": "Dastan", "role": "member", "membership_type": "premium", "borrowed_books": []},
+  {"user_id": 3, "name": "Dias", "role": "admin", "borrowed_books": []},
+  {"user_id": 4, "name": "Yerasyl", "role": "member", "borrowed_books": []}
+]

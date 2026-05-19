@@ -1,0 +1,4 @@
+[
+  {"user_id": 1, "book_id": 2, "borrow_date": "2026-05-01 10:00:00", "return_date": null},
+  {"user_id": 3, "book_id": 4, "borrow_date": "2026-05-05 14:20:00", "return_date": null}
+]
